@@ -49,6 +49,7 @@ npm start
 > pkg install libwebp 
 > pkg install bash
 > pkg install ffmpeg
+> pkg install imagemagick
 > Pkg install wget
 > cd /sdcard && cd SelfBot && npm start
 ```
