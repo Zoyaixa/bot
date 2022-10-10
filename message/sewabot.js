@@ -1,38 +1,32 @@
 
 exports.dada = (prefix, pushname, ucapanWaktu) => {
 return `${ucapanWaktu} kak ${pushname}
-Berikut adalah list harga untuk sewa botz
+Yukk sewa kak, sebelum harga naik!
 
 *╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」
 *┴*
 *│▸* 1 hari = free
-*│▸* 2 hari = Rp 2000         
-*│▸* 7 hari = Rp 5000          
-*│▸* 14 hari = Rp 10000         
-*│▸* 30 hari = Rp 20000                                           
+*│▸* 7 hari = Rp 5.000         
+*│▸* 1 bulan = Rp 10.000          
+*│▸* 2 bulan = Rp 15.000         
+*│▸* Permanen? Langsung ke owner!                                           
 *┬*
 *╰────────────[*
 
 *╭─▸*「 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 」
 *┴*
-*│▸* Shopee : 
-*│▸* Gopay : 
-*│▸* Dana : 
-*│▸* Ovo : 
+*│▸* ShopeePay : 083851929130
+*│▸* Dana : 083851929130
+*│▸* Ovo : 083851929130 (Axis)
 *┬*
 *╰────────────[*
 
-𝗡𝗢𝗧𝗘 : 
+📮Note : Jika ada bug segera hubungi owner!
 
-Bot on 24 jam tapi kadang 
-juga mati klo lgi ada error 
-atau lgi perbaikan bug.
-
-Kalo mau sewa bisa chat
-owner Bot, khusus untuk free 
-sewa 1 hari bisa pake fitur
-${prefix}freeoneday <Link Gc>
-tanpa harus chat owner
+*Sewa? Chat owner kak!*
+Khusus untuk free sewa 1 hari bisa pake
+fitur ${prefix}freeoneday <Link Gc>
+tanpa harus chat owner.
 `
 }
 
