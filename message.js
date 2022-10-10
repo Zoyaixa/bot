@@ -4,13 +4,13 @@ module.exports = async (senderNumber, prefix,command) => {
 
 
 global.mess = {
-wait: 'Tunggu sebentar ya kak',
-search: 'Searching...',
-scrap: '*Scrapping...*',
-success: 'Berhasil!',
-limit: `[❕] Limit kamu sudah habis silahkan kirim ${prefix}limit untuk mengecek limit`,
-claimOn: `Kamu sudah melakukan claim sebelumnya, Harap claim lagi pada jam }.`,
-wrongFormat: 'Format salah, coba liat lagi di menu',
+wait: 'Tunggu deck!',
+search: 'Waittt...',
+scrap: '*Memproses...*',
+success: 'Sukses',
+limit: `Limit lu abis deck!`,
+claimOn: `Sabar deck!`,
+wrongFormat: 'Cari apa luu deck?',
 
 error: {
 stick: 'bukan sticker itu:v',
@@ -21,16 +21,16 @@ link : "Link error!"
 
 block:{
 Bowner: `Maaf kak command 「 *${command}* 」 telah di block oleh owner`,
-Bsystem: `Command 「 *${command}* 」telah di block oleh system karena terjadi error`
+Bsystem: `Command 「 *${command}* 」telah di block oleh owner`
 },
 
  only: {
-prem : 'Premium special features! Chat owner to get Premium access!',
-group: 'Fitur ini dapat digunakan di Dalam Group!',
-ownerB: 'Fitur Khusus Owner Bot!',
-owner: 'Fitur Khusus Owner Bot!',
-admin: 'Fitur dapat Digunakan oleh Admin Group!',
-Badmin: 'Fitur dapat Digunakan Setelah Bot menjadi ADMIN!'
+prem : 'Beli premium dulu ke owner!',
+group: 'Fitur untuk Group!',
+ownerB: 'Siapa lu? ini bukan bot luu!',
+owner: 'Siapa lu? ini bukan bot luu!',
+admin: 'Jn sok berkuasa, luu bukan admin deck!',
+Badmin: 'Bot bukan admin!'
  }
   
  }
